@@ -1,4 +1,4 @@
-/* Variables */
+single-gallery-item/* Variables */
 /* mixin */
 /* ----------------------------------------------------------
 :: Template Name: Medilife - Medical & Health Template
@@ -816,6 +816,7 @@ textarea {
     position: absolute;
     width: 100%;
     height: 100%;
+    margin: 10px;
     top: 0;
     left: 0;
     z-index: 2;
