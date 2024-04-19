@@ -107,7 +107,7 @@
 
         $('.medilife-gallery-area').owlCarousel({
             items: 4,
-            margin: 0,
+            margin: 5px,
             loop: true,
             autoplay: true,
             autoplayTimeout: 5000,
