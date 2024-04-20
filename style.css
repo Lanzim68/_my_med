@@ -808,6 +808,8 @@ textarea {
 /* :: 9.0 Gallery Area CSS */
 .single-gallery-item {
   position: relative;
+    border: 10px solid #fff; /* Белая рамка */
+    /*border-radius: 10px; /* Радиус скругления */
   z-index: 1;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms; }
